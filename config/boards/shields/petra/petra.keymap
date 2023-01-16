@@ -30,7 +30,7 @@
 	&trans  &trans  &trans  &trans  &trans  &trans &trans &trans  &trans   &trans   &trans   &trans  &trans &trans 
 	&trans  &trans  &trans  &trans  &trans  &trans &trans &trans  &trans   &trans   &trans   &trans  &trans &trans
 	&trans  &trans  &trans  &trans  &trans  &trans &trans &trans  &trans   &trans   &trans   &trans  &trans       &rgb_ug RGB_BRI
-	&bootloader  &trans   &trans                            &trans         &trans      &trans  &rgb_ug RGB_HUD    &rgb_ug RGB_BRD  &rgb_ug RGB_HUI	
+	&bootloader  &trans   &reset                            &trans         &trans      &trans  &rgb_ug RGB_HUD    &rgb_ug RGB_BRD  &rgb_ug RGB_HUI	
 			>;
 		};
     };
